@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FindMaxInFiveNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+System.out.println("Số lớn nhất là: ");
         // Nhập 5 số từ người dùng
         System.out.println("Nhập 5 số:");
         int[] numbers = new int[5];
